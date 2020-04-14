@@ -1,128 +1,37 @@
-[
-  {
+{
+  "recipes": [
+    {
     "id": 1,
-    "name": "Driscoll’s Strawberries",
-    "description": "Driscoll’s Strawberries are consistently the best, sweetest, juiciest strawberries available. This size is the best selling, as it is both convenient for completing a cherished family recipes and for preparing a quick snack straight from the fridge.",
-    "price": 4.99,
-    "available": 0,
-    "weight": 1,
-    "perishable": true,
-    "categories": [
-      "produce",
-      "fruits"
-    ]
+    "name": "Vegetable Dim Sum",
+    "ingredients": "1/2 pound firm tofu, 1/2 cup coarsely grated carrots, 1/2 cup shredded Napa cabbage, 2 tablespoons finely chopped red pepper, 2 tablespoons finely chopped scallions, 2 teaspoons finely minced fresh ginger, 1 tablespoon chopped cilantro leaves, 1 tablespoon soy sauce, 1 tablespoon hoisin sauce, 2 teaspoons sesame oil, 1 egg, lightly beaten, 1 teaspoon salt, 1/4 teaspoon black pepper, 35 to 40 small wonton wrappers, Non-stick vegetable spray, for the steamer",
+ "instructions": "Preheat the oven to 200 degrees F. 2.Cut the tofu in half horizontally and lay between layers of paper towels. Place on a plate, top with another plate, and place a weight on top (a 14-ounce can of vegetables works well). Let stand 20 minutes. After 20 minutes, cut the tofu into 1/4-inch cubes and place in a large mixing bowl. Add the carrots, cabbage, red pepper, scallions, ginger, cilantro, soy sauce, hoisin, sesame oil, egg, salt, and pepper. Lightly stir to combine. To form the dumplings, remove 1 wonton wrapper from the package, covering the others with a damp cloth. Brush the edges of the wrapper lightly with water. Place 1/2 rounded teaspoon of the tofu mixture in the center of the wrapper. Shape as desired. Set on a sheet pan and cover with a damp cloth. Repeat procedure until all of the filling is gone. Using a steaming apparatus of your choice, bring 1/4 to 1/2-inch of water to a simmer over medium heat. Spray the steamer's surface lightly with the non-stick vegetable spray to prevent sticking. Place as many dumplings as will fit into a steamer, without touching each other. Cover and steam for 10 to 12 minutes over medium heat. Remove the dumplings from the steamer to a heatproof platter and place in oven to keep warm. Repeat until all dumplings are cooked."
   },
   {
     "id": 2,
-    "name": "Nestle Toll House Cookie Dough",
-    "description": "Get the classic taste that America loves in a ready to bake dough. Full of our famous morsels, these cookies deliver the semi-sweet chocolate flavor youve come to expect from Nestle Toll House.",
-    "price": 7.49,
-    "available": 325,
-    "weight": 2.25,
-    "perishable": true,
-    "categories": [
-      "snacks",
-      "baking"
-    ]
+    "name": "Blueberry Pancakes",
+    "ingredients": "2 cups all-purpose flour, 3 tablespoons sugar, 1 tablespoon baking powder, Fine salt, 1 1/2 cups unsweetened plain soy milk, 1/3 cup virgin coconut oil, melted, 1 teaspoon pure vanilla extract, 4 teaspoons vegetable oil, Maple syrup, nut butter or jam, for serving, 1/2 of blueberries",
+    "instructions": "Preheat the oven to 250 degrees F. Whisk together the flour, sugar, baking powder and 1 teaspoon salt in a medium bowl. Whisk together the soy milk, coconut oil and vanilla in a second medium bowl (don't worry if the coconut oil clumps). Add the soy milk mixture to the flour mixture and gently fold until just combined (it's OK if there are lumps). Add in blueberries. Heat a nonstick griddle or large nonstick skillet over medium-low heat. Add 1 teaspoon of the vegetable oil. Once the pan is hot, add three 1/4-cup mounds of batter, evenly spaced, and cook until the pancakes begin to bubble and are golden brown, 4 to 5 minutes. Carefully flip the pancakes and cook until the underside is golden brown and the pancakes are cooked through, 3 to 4 minutes (adjust the heat as necessary for consistent browning). Repeat with the remaining vegetable oil and batter. Transfer the cooked pancakes to the oven to keep warm. Serve 2 per person with maple syrup, nut butter, jam or your favorite topping."
   },
   {
     "id": 3,
-    "name": "Gotham Greens Gourmet Lettuce Medley",
-    "description": "This lovely blend features Gotham Greens' Tropicana green leaf, Red Sail red leaf, Oak leaf, Lollo Rossa and tender Butterhead lettuces. Perfect for a colorful salad that's (almost) grown right in your own backyard!",
-    "price": 3.49,
-    "available": 10,
-    "weight": 0.3,
-    "perishable": true,
-    "categories": [
-      "produce",
-      "vegetables"
-    ]
+    "name": "Lemon Pasta",
+    "ingredients": "12 ounces eggless pasta, 2 cups unsweetened soy or almond milk, 4 ounces soy cream cheese, 3 tablespoons blanched sliced almonds, 3 tablespoons nutritional yeast, plus more for sprinkling, 1 teaspoon finely grated lemon zest, Kosher salt and freshly ground black pepper, 2 tablespoons extra-virgin olive oil, 3 cloves garlic, finely chopped, 1/2 cup loosely packed parsley leaves, chopped",
+    "instructions": "Bring a large pot of water to a boil and cook the pasta according to package directions. Strain, reserving 1 cup of the pasta cooking water. Add the soy milk, soy cream cheese, almonds, nutritional yeast, lemon zest, 1 teaspoon salt and 1/4 teaspoon pepper to a blender and process until smooth. Heat the oil and garlic in a large skillet over medium heat, stirring until the garlic just starts to sizzle and softens, about 1 minute. Add the soy milk mixture and 1/2 cup of the reserved pasta water, bring to a simmer and cook until thick and creamy, about 8 minutes. Remove from the heat, add the pasta and parsley and toss to combine. Thin out with a little more pasta water if needed. Divide the pasta among four bowls and sprinkle each with some nutritional yeast and a few grinds of pepper."
   },
   {
     "id": 4,
-    "name": "Gold Medal All Purpose Flour",
-    "description": "All-purpose bleached flour is great for just about everything but doesn't add any color. It's perfect for baked goods like white sandwich bread and cake.",
-    "price": 2.09,
-    "available": 299,
-    "weight": 2,
-    "perishable": false,
-    "categories": [
-      "baking"
-    ]
+    "name": "Spinach Dip",
+    "ingredients": "2 tablespoons extra-virgin olive oil, 2 cloves garlic, minced, 2 (6-ounce) bags baby spinach, 1 (15-ounce) can cannelloni beans, drained and rinsed, 1 tablespoon fresh lemon juice, 1 tablespoon balsamic vinegar, 1 teaspoon kosher salt, 1/4 teaspoon freshly ground black pepper",
+    "instructions": "In a large nonstick skillet, heat 1 tablespoon of the oil, over medium heat. Add the garlic and cook until fragrant, about 1 minute. Add 1/2 of the spinach and cook for 2 minutes until wilted. Repeat with the remaining spinach. Let the mixture cool for a few minutes. Place the remaining olive oil, spinach mixture, cannelloni beans, lemon juice, balsamic vinegar, salt, and pepper in the bowl of a food processor. Blend until the mixture is smooth. Transfer to a small serving bowl. Serve with endive spears, crostini or pita chips."
   },
   {
     "id": 5,
-    "name": "Honey Nut Cheerios",
-    "description": "You already know that Honey Nut Cheerios Naturally Flavored has the irresistible taste of golden honey, making it a family favorite. Something that everyone can smile about! ",
-    "price": 3.99,
-    "available": 400,
-    "weight": 0.68,
-    "perishable": false,
-    "categories": [
-      "breakfast"
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Eggo Nutri-Grain Whole Wheat Waffles",
-    "description": "Eggo® Nutri-Grain® waffles made with whole wheat have the same light and crispy texture as our original Eggo® Waffles, only with the added bonus of nutritious whole grain! ",
-    "price": 3.79,
-    "available": 236,
-    "weight": 0.25,
-    "perishable": true,
-    "categories": [
-      "breakfast",
-      "frozen"
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Amy's Cheese Pizza",
-    "description": "The classic favorite, made with our savory pizza sauce and grated part-skim mozzarella cheese.",
-    "price": 8.49,
-    "available": 125,
-    "weight": 0.81,
-    "perishable": true,
-    "categories": [
-      "frozen",
-      "snacks"
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Birds Eye Steamfresh Fresh Frozen Vegetable Mix",
-    "description": "Delicious Birds Eye vegetables in blends that are just right for side dishes and your recipes.",
-    "price": 2.99,
-    "available": 99,
-    "weight": 0.68,
-    "perishable": true,
-    "categories": [
-      "frozen",
-      "vegetables"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Bare Coconut Chips",
-    "description": "Simply made with coconuts, cane sugar, and sea salt.",
-    "price": 4.99,
-    "available": 3,
-    "weight": 0.21,
-    "perishable": false,
-    "categories": [
-      "snacks"
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Snapple Peach Tea",
-    "description": "To Peach their own. Smooth Snapple tea, perfect peach flavor. We made it just for you from the Best Stuff on Earth.",
-    "price": 12.99,
-    "available": 4,
-    "weight": 12,
-    "perishable": false,
-    "categories": [
-      "beverages"
-    ]
+    "name": "Blackberry Popsicles",
+    "ingredients": "2 cups blackberries, hulled and sliced, 1/3 cup sugar, 2 teaspoons pure vanilla extract, 1 cup vegan vanilla yogurt",
+    "instructions": "Add the berries to a bowl and toss with the sugar and vanilla. Let sit out for 15 to 20 minutes so they get all juicy. Add to a blender or food processor, along with the vegan yogurt, and puree until smooth. Divide the mixture into 6 popsicles molds. Freeze until firm, about 4 hours."
   }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
